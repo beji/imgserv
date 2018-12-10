@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App is rendered correctly 1`] = `
+<header
+  className="sc-bdVaJa GoLQP"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    Header
+  </a>
+</header>
+`;
